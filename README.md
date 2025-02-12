@@ -38,6 +38,14 @@ The system includes a **voice-controlled AI assistant** that enhances user exper
 - Expanding AI capabilities for **more advanced voice commands**.
 - **Mobile app version** for seamless access.
 - Integration of **RFID-based book tracking**.
+- ![image](https://github.com/user-attachments/assets/0ee25577-f6c9-42c2-91bf-017d6b08f0a8)
+
+![image](https://github.com/user-attachments/assets/dbbdf711-92a1-48b5-ae89-eec997106594)
+![image](https://github.com/user-attachments/assets/214e43e6-b13e-46e9-bcd5-3cf897e935d4)
+![image](https://github.com/user-attachments/assets/e4af1ac8-89c3-4e3d-9b30-2528bb2f2110)
+
+
+
 
 This project demonstrates expertise in **AI integration, automation, and software development**, making it a great addition to  software development and AI-based projects.
 
