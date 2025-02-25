@@ -1,7 +1,7 @@
 # Digital_Library_Management_System_for_Our_Institude
 # Library Management System
 
-mySoftware https://chatgpt.com/
+mySoftware Link https://drive.google.com/file/d/1SodU04Fyh3khWtWfsaHyIpHhbUTSLfMN/view?usp=drive_link
 
 ## Project Overview
 The **Library Management System** is an advanced software designed to streamline the process of library operations, including seat reservations, student management, and AI-powered automation. This system enhances the efficiency of library management through voice-based commands and automated seat availability updates.
